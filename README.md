@@ -1,6 +1,4 @@
 ## Simple EDA Generator Introduction
-### Author: Fiona Wu
-### UID: 905774219
 
 Introduction to my streamlit application: 
 
